@@ -1,6 +1,8 @@
 # windows2linux - View this file as Raw ------>
 Run windows exe/msi via Double-click on Linux (Ubuntu Tested) via Proton.
 
+THIS IS NOT CLICK AND GO MAKE SURE TO READ AND CHANGE DIRECTORIES AND DATA BASED ON YOUR PREFERENCES AND PROTON VERSION (Tested with Proton 9.0)
+
 I'm a longtime Windows user and a C grade coder :/ (Not the best but I accomplish my goals)
 I did my best to remember what I did to make it work as mine works fine, I use nemo and can Click-and-go use exes.
 
