@@ -159,11 +159,11 @@ Key Points:
 
 Run the install_proton.sh script directly in your home directory.
 The correct method for obtaining proton is to clone the github repo, then copy the entire "files" directory from a steam install of proton, then to build the github repo.
-The install script that Maxwell provided automates the installation process.
+The install script that is provided automates the installation process.
 The STEAM_COMPAT_DATA_PATH environment variable creates a consistent 'C drive' environment in ~/Windows/.
 The STEAM_COMPAT_CLIENT_INSTALL_PATH environment variable is also very important.
 The bash -c in the .desktop file is crucial for setting the environment variables correctly.
-This solution has been tested and confirmed to work on Ubuntu by Maxwell Wingate.
+This solution has been tested and confirmed to work on Ubuntu.
 Credit:
 
 I found that this method provides a seamless way to run Windows executables and installers on Linux using Proton.
