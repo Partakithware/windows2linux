@@ -169,3 +169,5 @@ Credit:
 I found that this method provides a seamless way to run Windows executables and installers on Linux using Proton.
 
 If it's not working after this I apologize I may have forgotten a step I did. I think this will do it though. Happy Trails and Good Luck.
+DEPENDING on how closely you kept things the same installed applications for Windows should install to "/home/yourusername/Windows/pfx/drive_c/" head there to open them as no desktop icons will be created.
+
