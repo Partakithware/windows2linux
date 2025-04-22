@@ -1,4 +1,5 @@
 # windows2linux - View this file as Raw ------>
+Outdated and simple terms of how to do it, I automated this process elsewhere. --Trash but could serve as advice so I'll leave it here.
 Run windows exe/msi via Double-click on Linux (Ubuntu Tested) via Proton.
 
 THIS IS NOT CLICK AND GO MAKE SURE TO READ AND CHANGE DIRECTORIES AND DATA BASED ON YOUR PREFERENCES AND PROTON VERSION (Tested with Proton 9.0)
